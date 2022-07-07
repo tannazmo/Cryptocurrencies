@@ -50,6 +50,10 @@ We can now visualize the clusters on a 3d-plot, using plotly.express with each P
 
 ![3d_scatter](/images/3d_scatter.png "3d Scatter")
 
+We also created a hvplot.table as shown below:
+![hvplot_table](/images/hvplot_table.png "hvplot table")
+
+
 We can also, show the clusters based on the 2 dimensions of "number of coins mined", "total supplied coins" and their cluster(class) is shown by the color of datapoints. figure as below:
 
 ![hvplot_scatter](/images/hvplot_scatter.png "hvPolt Scatter")
